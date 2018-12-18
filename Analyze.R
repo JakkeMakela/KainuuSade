@@ -1,6 +1,7 @@
 #Analyze.R
 #Jakke Mäkelä, 2016-01-04
 #Analysoi Kainuun sääasemien sateita
+#Took a new look 2018-12-18
 
 library(zoo)
 
